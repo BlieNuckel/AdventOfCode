@@ -22,24 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59584869-4e52-4ec8-9b3b-ec620b83e056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="59584869-4e52-4ec8-9b3b-ec620b83e056" name="Default Changelist" comment="ass">
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2020/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2020/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2020/e2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2020/src/main/java/Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/2020.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advent.java" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/src/main/java/Advent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/e2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/e2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/src/main/java/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/src/main/java/Day1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,25 +71,36 @@
     <option name="jreName" value="openjdk-15" />
   </component>
   <component name="ProjectId" id="1l6sjPukvZIeMBSp4sEDNd2Z5iE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Advent.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23794213" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoogleDrive\Uni\javaProjects\AdventOfCode\advent\src\main\java" />
       <recent name="D:\GoogleDrive\Uni\javaProjects\AdventOfCode\" />
       <recent name="D:\GoogleDrive\Uni\javaProjects\AdventOfCode" />
       <recent name="D:\GoogleDrive\Uni\javaProjects\AdventOfCode\2020" />
@@ -119,8 +128,16 @@
       <option name="presentableId" value="Default" />
       <updated>1606929009466</updated>
       <workItem from="1606929010603" duration="333000" />
-      <workItem from="1606930339225" duration="501000" />
+      <workItem from="1606930339225" duration="1151000" />
     </task>
+    <task id="LOCAL-00001" summary="ass">
+      <created>1606930878247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606930878247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,22 +154,43 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ass" />
+    <option name="LAST_COMMIT_MESSAGE" value="ass" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1606930456022">
+    <state x="1085" y="406" key="#com.intellij.ide.util.MemberChooser" timestamp="1606931422308">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930456022" />
+    <state x="1085" y="406" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606931422308" />
+    <state x="1010" y="476" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1606931387946">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="476" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606931387946" />
+    <state x="1063" y="565" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606931389682">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1063" y="565" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606931389682" />
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1606930997177">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930997177" />
     <state x="945" y="404" key="NewModule_or_Project.wizard" timestamp="1606930460805">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="945" y="404" key="NewModule_or_Project.wizard/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930460805" />
-    <state x="760" y="274" key="SettingsEditor" timestamp="1606930463042">
+    <state x="760" y="274" key="SettingsEditor" timestamp="1606931262955">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930463042" />
-    <state x="871" y="361" key="new project wizard" timestamp="1606929341745">
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606931262955" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606930879437">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="871" y="361" key="new project wizard/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606929341745" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930879437" />
+    <state x="871" y="361" key="new project wizard" timestamp="1606931124086">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="871" y="361" key="new project wizard/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606931124086" />
   </component>
 </project>

@@ -1,5 +1,3 @@
-package advent;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -9,7 +7,7 @@ import java.util.List;
 
 public abstract class Advent {
 	
-	private List<String> input = new ArrayList<String>();
+	private final List<String> input = new ArrayList<String>();
 	
 	protected Advent(int day) throws IOException {
 		BufferedReader reader = new BufferedReader(new FileReader(new File(".", "Day" + day + ".txt")));
