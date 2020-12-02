@@ -7,10 +7,10 @@ import java.util.List;
 
 public abstract class Advent {
 	
-	private final List<String> input = new ArrayList<String>();
+	private final List<String> input = new ArrayList<>();
 	
 	protected Advent(int day) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader(new File(".", "Day" + day + ".txt")));
+		BufferedReader reader = new BufferedReader(new FileReader(new File("resources", "Day" + day + ".txt")));
 		
 		String s;
 		while((s = reader.readLine()) != null) {
