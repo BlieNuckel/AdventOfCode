@@ -34,6 +34,15 @@ public class Day1 extends Advent{
 
     @Override
     protected Object solveSecond() {
+        for (Integer i : parsedIntegers) {
+            for (Integer j : parsedIntegers) {
+                for (Integer k : parsedIntegers) {
+                    if (i + j + k == 2020) {
+                        return i * j * k;
+                    }
+                }
+            }
+        }
         return null;
     }
 }
