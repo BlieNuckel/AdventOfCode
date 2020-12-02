@@ -10,7 +10,7 @@ public abstract class Advent {
 	private final List<String> input = new ArrayList<>();
 	
 	protected Advent(int day) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader(new File("resources", "Day" + day + ".txt")));
+		BufferedReader reader = new BufferedReader(new FileReader(new File("src/main/resources", "Day" + day + ".txt")));
 		
 		String s;
 		while((s = reader.readLine()) != null) {
