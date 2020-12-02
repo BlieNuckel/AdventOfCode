@@ -3,12 +3,55 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="59584869-4e52-4ec8-9b3b-ec620b83e056" name="Default Changelist" comment="" />
+    <list default="true" id="59584869-4e52-4ec8-9b3b-ec620b83e056" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2020/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2020/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2020/e2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2020/src/main/java/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,18 +73,42 @@
     <option name="jreName" value="openjdk-15" />
   </component>
   <component name="ProjectId" id="1l6sjPukvZIeMBSp4sEDNd2Z5iE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23794213" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoogleDrive\Uni\javaProjects\AdventOfCode\" />
+      <recent name="D:\GoogleDrive\Uni\javaProjects\AdventOfCode" />
+      <recent name="D:\GoogleDrive\Uni\javaProjects\AdventOfCode\2020" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,17 +119,37 @@
       <option name="presentableId" value="Default" />
       <updated>1606929009466</updated>
       <workItem from="1606929010603" duration="333000" />
+      <workItem from="1606930339225" duration="501000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1606929333644">
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1606930456022">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606929333644" />
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930456022" />
+    <state x="945" y="404" key="NewModule_or_Project.wizard" timestamp="1606930460805">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="945" y="404" key="NewModule_or_Project.wizard/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930460805" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1606930463042">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.174.1920.1040@0.0.2560.1400" timestamp="1606930463042" />
     <state x="871" y="361" key="new project wizard" timestamp="1606929341745">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
