@@ -14,14 +14,26 @@ public class Day3 extends Advent{
 
     protected void setup() {
         parsed = new char[getInput().size()][];
-        int count = 0;
+        int count = -1;
         for (String i : getInput()) {
             parsed[++count] = i.toCharArray();
         }
     }
 
     protected Object solveFirst() {
-        return null;
+        //0.0, 1.3, 2.6
+        int treeCount = 0;
+        int hor = 0;
+        int ver = 0;
+        for (; ver < parsed.length; ver++) {
+            if (hor >= parsed[ver].length) {
+                hor = hor-parsed[ver].length;
+            }
+            if (parsed[ver][hor] == '#') treeCount++;
+            hor += 3;
+        }
+
+        return treeCount;
     }
 
     protected Object solveSecond() {
