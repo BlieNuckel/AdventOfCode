@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="e2020" target="1.5" />
+      <module name="e2020" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
