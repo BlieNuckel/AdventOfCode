@@ -21,23 +21,26 @@ public class Day3 extends Advent{
     }
 
     protected Object solveFirst() {
-        //0.0, 1.3, 2.6
-        int treeCount = 0;
+        return treeFind(1, 3);
+    }
+
+    protected Object solveSecond() {
+        return treeFind(1, 1) * treeFind(1, 3) * treeFind(1, 5) *
+                treeFind(1, 7) * treeFind(2, 1);
+    }
+
+    protected long treeFind(int verDiff, int horDiff) {
+        long treeCount = 0;
         int hor = 0;
         int ver = 0;
-        for (; ver < parsed.length; ver++) {
+        for (; ver < parsed.length; ver += verDiff) {
             if (hor >= parsed[ver].length) {
                 hor = hor-parsed[ver].length;
             }
             if (parsed[ver][hor] == '#') treeCount++;
-            hor += 3;
+            hor += horDiff;
         }
-
         return treeCount;
-    }
-
-    protected Object solveSecond() {
-        return null;
     }
 }
 
