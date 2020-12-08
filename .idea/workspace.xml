@@ -23,9 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59584869-4e52-4ec8-9b3b-ec620b83e056" name="Default Changelist" comment="ass">
-      <change afterPath="$PROJECT_DIR$/e2020/src/main/java/Day4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2020/src/main/resources/Day4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2020/src/main/java/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/src/main/java/Day4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Day4" />
@@ -150,7 +136,8 @@
       <workItem from="1606930339225" duration="8985000" />
       <workItem from="1606956100723" duration="239000" />
       <workItem from="1606990472098" duration="2856000" />
-      <workItem from="1607425043912" duration="6451000" />
+      <workItem from="1607425043912" duration="6466000" />
+      <workItem from="1607441907178" duration="4353000" />
     </task>
     <task id="LOCAL-00001" summary="ass">
       <created>1606930878247</created>
@@ -243,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606993293235</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ass">
+      <created>1607431800737</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607431800737</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
