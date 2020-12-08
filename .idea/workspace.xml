@@ -156,7 +156,7 @@
       <workItem from="1606956100723" duration="239000" />
       <workItem from="1606990472098" duration="2856000" />
       <workItem from="1607425043912" duration="6466000" />
-      <workItem from="1607441907178" duration="13328000" />
+      <workItem from="1607441907178" duration="14190000" />
     </task>
     <task id="LOCAL-00001" summary="ass">
       <created>1606930878247</created>
@@ -270,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607447509523</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ass">
+      <created>1607462087604</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607462087604</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,5 +302,19 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ass" />
     <option name="LAST_COMMIT_MESSAGE" value="ass" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/e2020/src/main/java/Day5.java</url>
+          <line>46</line>
+          <properties class="Day5" method="findColRow">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

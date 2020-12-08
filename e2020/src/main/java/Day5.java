@@ -18,30 +18,8 @@ public class Day5 extends Advent{
         parsed = new HashSet<>();
         HashSet<String> tempSet = new HashSet<>(getInput());
         for (String i : tempSet) {
-            double rowLow = 0;
-            double rowHigh = 127;
-            double row = 0;
-            for (int j = 0; j < 7; j++) {
-                if (i.charAt(j) == 'B') {
-                    if (rowLow == rowHigh - 1) row = rowHigh;
-                    else rowLow += Math.ceil((rowHigh - rowLow)/2);
-                } else if (i.charAt(j) == 'F') {
-                    if (rowLow == rowHigh - 1) row = rowLow;
-                    else rowHigh -= Math.ceil((rowHigh - rowLow)/2);
-                }
-            }
-            double colLow = 0;
-            double colHigh = 7;
-            double col = 0;
-            for (int j = 7; j < 10; j++) {
-                if (i.charAt(j) == 'R') {
-                    if (colLow == colHigh - 1) col = colHigh;
-                    else colLow += Math.ceil((colHigh - colLow)/2);
-                } else if (i.charAt(j) == 'L') {
-                    if (colLow == colHigh - 1) col = colLow;
-                    else colHigh -= Math.ceil((colHigh - colLow)/2);
-                }
-            }
+            double row = findColRow(i, 127, 0, 7, false);
+            double col = findColRow(i, 7, 7, 10, true);
             parsed.add(row * 8 + col);
         }
     }
@@ -61,6 +39,21 @@ public class Day5 extends Advent{
         for (double i = 0; i < 996; i++) {
             if (!parsed.contains(i)) {
                 num = i;
+            }
+        }
+        return num;
+    }
+
+    private double findColRow(String i, double high, int from, int to, boolean col) {
+        double low = 0;
+        double num = 0;
+        for (int j = from; j < to; j++) {
+            if (i.charAt(j) == (col ? 'R' : 'B')) {
+                if (low == high - 1) num = high;
+                else low += Math.ceil((high - low)/2);
+            } else if (i.charAt(j) == (col ? 'L' : 'F')) {
+                if (low == high - 1) num = low;
+                else high -= Math.ceil((high - low)/2);
             }
         }
         return num;
