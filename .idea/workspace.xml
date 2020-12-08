@@ -23,8 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59584869-4e52-4ec8-9b3b-ec620b83e056" name="Default Changelist" comment="ass">
+      <change afterPath="$PROJECT_DIR$/e2020/src/main/java/Day5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2020/src/main/resources/Day5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2020/src/main/java/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/e2020/src/main/java/Day4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +116,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Day4" />
@@ -137,7 +149,7 @@
       <workItem from="1606956100723" duration="239000" />
       <workItem from="1606990472098" duration="2856000" />
       <workItem from="1607425043912" duration="6466000" />
-      <workItem from="1607441907178" duration="4353000" />
+      <workItem from="1607441907178" duration="5253000" />
     </task>
     <task id="LOCAL-00001" summary="ass">
       <created>1606930878247</created>
@@ -237,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607431800737</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ass">
+      <created>1607446476290</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607446476290</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
